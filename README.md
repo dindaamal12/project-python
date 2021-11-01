@@ -10,7 +10,7 @@ untuk menentukan langkah langkah menghitung luas dan keliling lingkaran
 
 # Menghiung Luas dan Keliling Lingkaran
 
-## Code untuk menghitung 
+## Code untuk menghitung  
 
     print("program menghitung luas dan keliling lingkaran")
     r = int(input("masukan jari jari = "))
@@ -28,7 +28,7 @@ rumus untuk menghitung luas dan keliling linngkaran
 
 ![img][gambar/rumus1.JPG]
 
-    nilai phi yang digunakan adalah 14 
+    nilai phi yang digunakan adalah  14 
     dan r adalah jari jari lingkaran
 
 ## Output
