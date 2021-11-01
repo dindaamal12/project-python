@@ -26,7 +26,7 @@ untuk menentukan langkah langkah menghitung luas dan keliling lingkaran
 
 rumus untuk menghitung luas dan keliling linngkaran
 
-![img][gambar/rumus1.JPG]
+![img](gambar/rumus1.JPG)
 
     nilai phi yang digunakan adalah  14 
     dan r adalah jari jari lingkaran
@@ -35,12 +35,12 @@ rumus untuk menghitung luas dan keliling linngkaran
 
 ini adalah hasil output jika dimasukan jari jari dengan nilai 30
 
-![img][gambar/output.JPG]
+![img](gambar/output.JPG)
 
 ## Penjelasan
 
 untuk mengambil 2 angka pecahan saja kita pakai fungsi format '.2f' seperti berikut:
 
-![img][gambar/rumus2.JPG]
+![img](gambar/rumus2.JPG)
 
 dengan rumus seperti diatas dapat mengambil kesimpulan 2 angka dibelakang titik
