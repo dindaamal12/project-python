@@ -28,7 +28,7 @@ rumus untuk menghitung luas dan keliling linngkaran
 
 ![img](gambar/rumus1.JPG)
 
-    nilai phi yang digunakan adalah 14 
+    nilai phi yang digunakan adalah  14 
     dan r adalah jari jari lingkaran
 
 ## Output
