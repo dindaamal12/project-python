@@ -8,7 +8,7 @@ untuk menentukan langkah langkah menghitung luas dan keliling lingkaran
 
 ![img](gambar/ss.JPG)
 
-# Menghiung Luas dan Keliling Lingkaran
+# Menghitung Luas dan Keliling Lingkaran
 
 ## Code untuk menghitung  
 
